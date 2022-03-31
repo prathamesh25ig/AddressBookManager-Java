@@ -64,7 +64,7 @@ public class Contact {
     }
 
     public String getZip() {
-        return this zip;
+        return this.zip;
     }
 
     @Override
